@@ -1,0 +1,18 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Логи и отладочные файлы
+*.log
+*.out
+*.pid
+*.gz
+*.zip
+*.tar
+*.tgz
